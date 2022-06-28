@@ -1,10 +1,10 @@
 ## Hey! 🧙‍♂️
 ## Meu nome é @Reydner96
-⏩ Sou brasileiro 
+> brasileiro
 
-⏩ Cursando Analise de Desenvolvimento de Sistemas.
+> Cursando Analise de Desenvolvimento de Sistemas.
 
-⏩ Analista de Suporte 💻
+> Analista de Suporte 💻
 
 ##
 
